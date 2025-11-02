@@ -62,3 +62,5 @@ void loop() {
     delay(250);              // wait 250ms
   }
 }
+
+![Setup view](images/arduino_02.jpg)
